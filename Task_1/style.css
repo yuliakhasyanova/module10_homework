@@ -1,0 +1,22 @@
+.btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: none;
+  background-color: #198754;
+  border-radius: .2rem;
+  outline: none;
+  cursor: pointer;
+  padding: .5rem;
+  font-weight: 500;
+  font-size: 1rem;
+}
+.btn:hover {
+  background-color: #0f683e;
+}
+.btn_icon {
+  color: rgb(255, 255, 255);
+}
+.none {
+  display: none;
+}
